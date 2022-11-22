@@ -29,7 +29,7 @@
 
 <p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kosuke-i&show_icons=true&locale=en&layout=compact" alt="kosuke-i" /></p>
 
-<p>&nbsp;<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kosuke-i&show_icons=true&locale=en" alt="kosuke-i" /></p>
+<p>&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kosuke-i&show_icons=true&locale=en" alt="kosuke-i" /></p>
 
-<p><img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kosuke-i&" alt="kosuke-i" /></p>
+<p><img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kosuke-i&" alt="kosuke-i" /></p>
 
