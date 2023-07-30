@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [https://kostum.hatenablog.jp/](https://kostum.hatenablog.jp/)
 
+- 📽️ This is a my portfolio site on [https://trancore.github.io/](https://trancore.github.io/)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
