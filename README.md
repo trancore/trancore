@@ -33,7 +33,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [音楽メタ情報 - ID3v2、VorbisComment、Windows Media Metadata、id3チャンク、APEv2 -](https://kostum.hatenablog.jp/entry/2024/09/06/100000)
 - [FLACの仕様について調べた](https://kostum.hatenablog.jp/entry/2024/08/31/100000)
-- [Yjs&lpar;リアルタイム共同編集を実現するためのアルゴリズムとデータ構造&rpar;について調べてみました](https://kostum.hatenablog.jp/entry/2024/08/05/100000)
+- [Yjs&lpar;リアルタイム共同編集を実現するためのアルゴリズムとデータ構造&rpar;について調べてみた](https://kostum.hatenablog.jp/entry/2024/08/05/100000)
 - [ObsidianのnoteをJavaScriptで解析する](https://kostum.hatenablog.jp/entry/2024/07/31/100000)
 <!-- BLOG-POST-LIST:END -->
 
