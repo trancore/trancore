@@ -31,10 +31,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JSConf JP 2024に参加してきました。](https://kostum.hatenablog.jp/entry/2024/11/25/100000)
 - [JavaScriptにおける再代入可能な変数の扱い方](https://kostum.hatenablog.jp/entry/2024/11/01/100000)
 - [Vue Fes Japan 2024に行ってきました](https://kostum.hatenablog.jp/entry/2024/10/30/100000)
 - [FormKitコンポーネントをStorybookに表示させる方法](https://kostum.hatenablog.jp/entry/2024/09/29/100000)
-- [音楽メタ情報 - ID3v2、VorbisComment、Windows Media Metadata、id3チャンク、APEv2 -](https://kostum.hatenablog.jp/entry/2024/09/06/100000)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
