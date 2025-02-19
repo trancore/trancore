@@ -55,5 +55,5 @@
 
 <p>
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=trancore&show_icons=true&theme=dark&locale=en" alt="trancore" />　
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=trancore&theme=dark" alt="trancore" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=trancore&theme=dark" alt="trancore" />
 </p>
