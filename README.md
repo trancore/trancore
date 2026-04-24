@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
+<p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
@@ -132,7 +132,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 <p align="left">
   <img width="35%" src="https://github-readme-stats-nine-omega-99.vercel.app/api/top-langs?username=trancore&show_icons=true&theme=dark&locale=en&layout=compact" alt="trancore" />  
@@ -140,5 +140,5 @@
 
 <p>
   <img width="47%" src="https://github-readme-stats-nine-omega-99.vercel.app/api?username=trancore&show_icons=true&theme=dark&locale=en" alt="trancore" />　
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=trancore&theme=dark" alt="trancore" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=trancore&theme=dark" alt="trancore" />
 </p>
